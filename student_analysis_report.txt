@@ -1,0 +1,54 @@
+
+STUDENT DIGITAL LIFE AND ACADEMIC PERFORMANCE ANALYSIS
+=====================================================
+
+DATASET SUMMARY
+---------------
+Total Students: 15000
+Average Academic Performance: 78.31
+Overall Performance Status: Moderate Performance
+
+DIGITAL HABITS
+--------------
+Average Social Media Usage: 4.54 hours/day
+Average AI Tool Usage: 2.58 hours/day
+
+LIFESTYLE
+---------
+Average Sleep: 6.54 hours/day
+Average Physical Activity: 1.25 hours/day
+
+BURNOUT
+-------
+Low: 9000
+Moderate: 4200
+High: 1350
+Severe: 450
+
+ACADEMIC FAILURE RISK
+---------------------
+Students at Failure Risk: 900
+Failure Risk Percentage: 6.00%
+
+KEY RELATIONSHIPS
+-----------------
+Social Media vs Academic Performance: -0.39
+AI Usage vs Academic Performance: -0.21
+Sleep vs Academic Performance: 0.29
+Physical Activity vs Academic Performance: 0.04
+Mental Health vs Academic Performance: 0.20
+Physical Health vs Academic Performance: 0.15
+Social Isolation vs Academic Performance: -0.23
+
+MAIN FINDINGS
+-------------
+Higher social media usage was associated with lower academic performance.
+Academic performance decreased as burnout severity increased.
+More sleep was associated with higher academic performance.
+Students at academic failure risk showed higher digital usage, lower sleep,
+lower mental health, greater social isolation, and lower academic performance.
+
+CONCLUSION
+----------
+The analysis suggests that students' academic performance is associated with
+a combination of digital habits, lifestyle, and well-being factors.
